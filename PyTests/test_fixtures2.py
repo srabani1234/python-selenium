@@ -43,9 +43,9 @@ class Test_Google_Firefox(base_firefox_Test):
     def test_google_title_firefox(self):
         self.driver.get("http://www.google.com")
         assert self.driver.title == "Google"
-#
 
-#
+
+
 
 
 

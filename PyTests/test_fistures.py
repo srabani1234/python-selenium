@@ -27,7 +27,7 @@ def setup_module(module):
 
 def teardown_module(module):
     driver.quit()
-    #
+
 
 
 def test_google_title():

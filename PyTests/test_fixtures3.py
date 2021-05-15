@@ -22,4 +22,3 @@ class Test_Google(Base_Test):
         assert  self.driver.title == "Google"
     def test_google_url(self):
         assert self.driver.current_url == "https://www.google.com/?gws_rd=ssl"
-        #
