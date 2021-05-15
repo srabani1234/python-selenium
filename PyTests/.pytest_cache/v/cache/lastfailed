@@ -1,0 +1,24 @@
+{
+  "demo1_test.py::test_login": true,
+  "demo1_test.py::test_m1": true,
+  "demo1_test.py::test_m4": true,
+  "demo1_test.py::test_m6": true,
+  "demo1_test.py::testm6": true,
+  "demo1_test.py::testu_m6": true,
+  "test_demo1.py::test_m1": true,
+  "test_demo1.py::test_m4": true,
+  "test_demo1.py::test_m6": true,
+  "test_demo2.py::test_m7": true,
+  "test_fistures.py::test_google_url": true,
+  "test_fistures1.py::test_google_url": true,
+  "test_fixtures2.py::Test_Google_Firefox::test_google_title_firefox": true,
+  "test_fixtures3.py::Test_Google::test_google_title": true,
+  "test_fixtures3.py::Test_Google::test_google_title[chrome,firefox]": true,
+  "test_fixtures3.py::Test_Google::test_google_title[firefox]": true,
+  "test_fixtures3.py::Test_Google::test_google_url": true,
+  "test_fixtures3.py::Test_Google::test_google_url[chrome,firefox]": true,
+  "test_fixtures3.py::Test_Google::test_google_url[chrome]": true,
+  "test_fixtures3.py::Test_Google::test_google_url[firefox]": true,
+  "test_webpage_login.py::test_facebook": true
+}
+#
